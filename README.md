@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sudosu4pp
-- 👀 I’m interested in 👀 next point
+- 👋 Hi, I’m H'ector
+- 👀 I’m interested in 👀... learn something
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me hectoryx@pm.me
