@@ -1,7 +1,7 @@
 - 👋 Hi, I’m H'ector
-- 👀 I’m interested in 👀... learn something
-- 🌱 I’m currently learning blender
-- 💞️ I’m looking to collaborate
+- 👀 I’m interested in 👀... learn
+- 🌱 I’m currently learning Bblender
+- 💞️ Always looking to collaborate
 - 📫 How to reach me? just follow the QR code
 
 <!---
